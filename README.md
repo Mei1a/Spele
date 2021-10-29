@@ -2,7 +2,7 @@
 
 
 ## Apraksts
-	Meginasu izveidot kadu is rpg speli 
+	Meginasu izveidot kadu isu rpg speli 
 ## Galvenās funkcijas
 	- kustiba
 	- kausanas
